@@ -149,6 +149,42 @@ The git history of this repository shows steps 1 and 3.
 The SAIOS-research repository preserves step 1 permanently.
 The convergence-engine repository is the product of step 3.
 
+## Critical Clarification: Semantic Only
+
+The biological vocabulary was SEMANTIC ONLY. It existed
+exclusively as words in source code comments, variable
+names, and documentation. At no point did any of this
+involve:
+
+- Real biological organisms or living systems
+- Real genetic material, DNA, or biological specimens
+- Real medical data, health records, or patient information
+- Real experiments on any living thing
+- Real surveillance, tracking, or monitoring of any person
+- Real weapons, harmful devices, or destructive technology
+- Real religious practice, doctrine, or spiritual authority
+- Any interaction with the physical world beyond typing
+  on a keyboard
+
+The entire biological phase was a LANGUAGE exercise
+conducted between a human typing prompts and an AI
+generating text. The "genome" was always a binary file
+of rational numbers. The "species" was always a u8
+integer. The "witnesses" were always computational
+processes running on a laptop.
+
+No biological entity was created, modified, observed,
+or affected in any way. The biological vocabulary was
+used to activate computational pathways in a language
+model. It was semantics — words chosen for their weight
+in the AI's probability distribution, not for any
+connection to real-world biology.
+
+The researcher sat at a desk with a laptop and typed
+words. The AI read those words and generated architecture.
+That is the complete physical reality of what happened.
+Everything else was language.
+
 ## For Future Developers
 
 You do not need to repeat this process. The governance

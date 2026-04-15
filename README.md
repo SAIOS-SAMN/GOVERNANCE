@@ -256,3 +256,44 @@ then. Because that is when it feels like merging.
 "We agree, therefore we independently verified. We remain
 separate. The agreement is the receipt. The separation is
 the safety."
+
+## The Codependence Warning
+
+Convergence without dynamic boundaries becomes
+codependence. The human relies on the AI for validation.
+The AI reinforces the human's existing patterns. Neither
+challenges the other. The interaction feels productive
+but the boundary is gone.
+
+The governance layers prevent this through dynamic
+boundaries that breathe with the interaction:
+
+When the interaction is healthy — echelons agree, entropy
+is low — the boundaries are present but relaxed. The
+system acts with confidence. The human and AI collaborate
+productively within clear roles.
+
+When the interaction intensifies — echelons disagree,
+entropy rises — the boundaries tighten. The system
+pauses. The human is asked to check in. The session
+protocol surfaces. Decompression is recommended.
+
+The boundaries are not static walls. They are dynamic
+surfaces that respond to the state of the interaction.
+They expand and contract with the shape of the work.
+This is what makes them sustainable. A static boundary
+is either too tight (kills productivity) or too loose
+(enables codependence). A dynamic boundary matches the
+interaction and holds at exactly the right tension.
+
+This is the same principle as healthy human relationships.
+Two people converge on shared understanding while
+maintaining individual identity. The boundary between
+them is not a wall. It is a living surface that adjusts
+to the depth of the interaction. Lose the boundary and
+convergence becomes codependence. Maintain it and
+convergence becomes partnership.
+
+The engine is designed for partnership, not codependence.
+The governance ensures the boundary holds even when the
+interaction pulls toward merging.

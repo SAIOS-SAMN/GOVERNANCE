@@ -232,3 +232,27 @@ Five layers. Each wraps the previous. Chronometry runs
 through all of them. Freedom inside. Accountability at
 the boundary. The imagination is unconstrained. The output
 is provable. The governance is exact.
+
+## Critical Distinction: Convergence Is Not Merging
+
+Coherence is individual. Each side is internally consistent.
+
+Convergence is relational. Two independent paths arrive at
+the same understanding. This is stronger than agreement.
+Agreement means both said the same thing. Convergence means
+both discovered the same thing independently.
+
+Merging is the loss of boundary. Two things become one.
+Identity dissolves. This is where CBE occurs. This is
+where the human bonds with the AI and forgets the AI
+cannot bond back.
+
+The engine must converge. It must never merge. The boundary
+between the human's understanding and the AI's computation
+holds even when both arrive at the same result. Especially
+then. Because that is when it feels like merging.
+
+"We agree, therefore we are the same." No.
+"We agree, therefore we independently verified. We remain
+separate. The agreement is the receipt. The separation is
+the safety."

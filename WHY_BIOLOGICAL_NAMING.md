@@ -2,6 +2,20 @@
 
 # Why the Governance Layers Started With Biological Naming
 
+## Summary
+
+The AI could not build multi-dimensional governance
+architecture using machine vocabulary. Biological vocabulary
+(genome, species, sacred laws) activated computational
+pathways that machine vocabulary could not reach. The
+architecture was built, verified with tests, translated to
+clean engineering terms, and verified again. The biological
+vocabulary was words on a screen — no biological entities
+were created or affected. Future developers use the clean
+version. The original is preserved as a methodology artifact.
+
+---
+
 ## The Question
 
 The git history of this repository shows two commits for

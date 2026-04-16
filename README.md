@@ -143,7 +143,9 @@ Total freedom inside the creative bubble. No content
 filtering. No imagination constraints. The creative mind
 goes wherever it goes. That is where art happens.
 
-The gates are at the EXIT only:
+The gates are at the EXIT only. The creator chooses whether
+to use them. They are tools for classification and
+provenance, not mandatory checkpoints:
 
 Gate 1 — Staying or going? Private stays ungated.
 

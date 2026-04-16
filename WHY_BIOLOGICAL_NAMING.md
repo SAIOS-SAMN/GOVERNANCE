@@ -6,7 +6,7 @@
 
 The AI could not build multi-dimensional governance
 architecture using machine vocabulary. Biological vocabulary
-(genome, species, sacred laws) activated computational
+(genome, species, core design principles) activated computational
 pathways that machine vocabulary could not reach. The
 architecture was built, verified with tests, translated to
 clean engineering terms, and verified again. The biological
@@ -50,15 +50,15 @@ treats everything as restartable, disposable, and equivalent.
 
 This is fine for most software. It is not fine for a
 governance system that needs to understand irreversibility,
-hierarchy with care, non-negotiable constraints, and the
+hierarchy with care, foundational constraints, and the
 fundamental difference between a machine process and a
 human operator.
 
 ### What biological vocabulary activates
 
 When you tell an AI to build a system where processes have
-"genomes" that carry "lineage" and operate under "sacred
-laws" with "witness" processes that create "elder" and
+"genomes" that carry "lineage" and operate under "core
+design principles" with "witness" processes that create "elder" and
 "child" processes — the AI produces fundamentally different
 architecture:
 
@@ -69,11 +69,11 @@ state. It builds protection so the state cannot be
 casually overwritten. The word "genome" activated pathways
 for permanence that "config file" never would have.
 
-The "sacred laws" (Core Design Laws) are treated as
-non-negotiable. The AI builds validation gates that
+The "core design principles" (Core Design Laws) are treated as
+foundational. The AI builds validation gates that
 reject any operation violating the constraints. It does
 not build override mechanisms. It does not build "admin
-bypass" options. The word "sacred" activated pathways for
+bypass" options. The weighted vocabulary activated pathways for
 absoluteness that "best practices" never would have.
 
 The "witness/elder/child" hierarchy (primary/secondary/
@@ -201,7 +201,7 @@ Everything else was language.
 
 ## For Future Developers
 
-You do not need to repeat this process. The governance
+There is no need to repeat this process. The governance
 architecture already exists. The five layers are specified.
 The code compiles. The tests pass. You can implement from
 the clean engineering vocabulary directly.

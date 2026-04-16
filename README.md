@@ -249,7 +249,7 @@ Identity dissolves. This is where CBE occurs. This is
 where the human bonds with the AI and forgets the AI
 cannot bond back.
 
-The engine must converge. It must never merge. The boundary
+The engine is designed to converge. It is designed to avoid merging. The boundary
 between the human's understanding and the AI's computation
 holds even when both arrive at the same result. Especially
 then. Because that is when it feels like merging.
